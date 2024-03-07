@@ -1,0 +1,1 @@
+{"database": [{"name1": "Tim", "name2": "M\u00fcller", "age": 30, "email": "Tim.M\u00fcller@test.com"}, {"name1": "Lisa", "name2": "Schmidt", "age": 20, "email": "Lisa.Schmidt@test.com"}, {"name1": "Heiko", "name2": "Schmidt", "age": 45, "email": "Heiko.Schmidt@test.com"}], "gesamtalter": 95, "Durchschnittliche Anzahl der Buchstaben im Vornamen": 4.0}
